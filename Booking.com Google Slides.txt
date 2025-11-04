@@ -1,0 +1,81 @@
+Booking.com Connects Day
+February 2024
+
+How was your experience with the login process?
+Survey results
+😊 8.28
+How was your experience with the perk redemption process?
+😊 8.30
+In person observations noted issues with users being logged out of their app and difficulties with domain name and remembering credentials.
+In person discussions noted that some users found the redemption process to be lengthy and overwhelming.
+
+Survey results
+Do you have the app downloaded on your phone?
+😃 96%
+Have you ever redeemed any perks through our app?
+😃 92%
+
+What prompts users to open Perkbox?
+
+Mentioned 26 times
+Many users mention being prompted to open Perkbox to access discounts, deals, or offers available on various products and services such as cinema tickets, coffee, groceries, takeaway, online shopping, and more. They are usually reminded of deals by emails.
+
+Discounts & Offers
+
+Mentioned 11 times
+Several respondents mention checking or using points, rewards, or vouchers they have accumulated through the platform, such as Flexi points, monthly points, or Caffè Nero vouchers.
+
+Points & Rewards
+
+Mentioned 3 times
+A few respondents mention interactions with colleagues or nudges from their employer as a prompt to open Perkbox, possibly to discuss or utilise benefits together.
+
+Social Interactions
+
+Observations
+
+Users experienced significant friction during the login process.
+Many users found themselves logged out of their accounts unexpectedly, despite recent usage.
+Confusion arose regarding the domain name requirement at login, particularly distinguishing between "booking" and "booking.com."
+Users struggled to determine whether to use their rental cars email or the booking email for login.
+Some users faced difficulty recalling their credentials, especially if their work email was not readily accessible on their mobile devices.
+
+
+Login friction
+
+Users, particularly those unfamiliar with perk redemption, found the process daunting and lengthy.
+Several users abandoned the redemption process after only a couple of steps, expressing frustration at its perceived complexity.
+Providing transparency about the number of steps involved (ideally 3-4 steps) could alleviate user concerns and make the process less intimidating.
+
+
+
+Perk Redemption Process
+
+Observations
+
+Users expressed interest in setting preferences for tailored communications and homepage content.
+Although the functionality for setting interests exists, its effectiveness and scope (e.g., whether it applies to emails and notifications) are uncertain.
+Users desire clearer communication regarding how their set interests influence the content they receive, particularly across different communication channels like emails and notifications.
+
+
+Interests
+
+Many users seem unaware of the full range of offerings within Perkbox, specifically regarding gift cards, codes, and discount links.
+Some users believed they could only utilise Perkbox once they had accumulated enough points for specific rewards, such as Amazon vouchers.
+Upon clarification, users were surprised to learn about the option to purchase gift cards and access discount links even without accumulated points.
+Lack of awareness on non Flexi Perks
+
+
+Users also positively received the Friends and Family feature, particularly super users who already share Perkbox savings with their loved ones. They mentioned that their partners often rely on them to check for Perkbox discounts and wait for them to make the purchases.
+
+Throughout our interactions with users, we engaged in numerous insightful discussions aimed at maximizing the utilisation of the platform. During these conversations, we provided valuable tips and tricks that resonated deeply with users, resulting in several "Aha" moments. In one notable instance, a user expressed great enthusiasm for the insights shared and inquired about the existence of a forum dedicated to exchanging and discussing such tips.
+
+Although most users do have the app downloaded very few of them mentioned that they would open perkbox when they receive a notification on the app - most users would open the app when they receive an email from Perkbox.
+
+Entry Point to Perkbox
+Friends & Family
+Forum
+Users also suggested implementing a feature to view the remaining balance on gift cards within the platform.Some were even unaware that they could use the remaining balance.
+Gift Card balance
+
+URL: https://docs.google.com/presentation/d/1CTg7_r0ShaGtlyQIiGc_ZEWel0gxjObBSkebDIyd1MQ/edit#slide=id.ge94975c0e7_0_68

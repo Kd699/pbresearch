@@ -1,0 +1,114 @@
+Homepage Testing
+
+July 2024 - 65 Responses
+
+
+Identifying Flexi Points
+
+Most users found their Flexi Point balance by clicking on the Perks Tile or My area in the bottom navigation.
+
+Some users accessed Flexi points indirectly through Rewards, My savings, and the Flexi Perks entry point via search.
+
+A few users clicked on the empty space where the old points used to be.
+
+Feedback on the homepage is generally positive. Participants appreciate the clean, simple, and uncluttered design.
+
+Large, clear tiles and logical layout make navigation user-friendly.
+Many participants found it easy to locate key information, such as perk balance, due to prominent icons and visual cues.
+
+Advocates
+Non - Advocates
+
+First impressions on homepage
+
+Accessibility of Balance (Mentioned 5 times)
+"I'd prefer to see my balance at the top right of the page, so I don't have to navigate to another page."
+"Checking the balance takes too many clicks. It should be more accessible."
+"The balance info should use the last remaining square in the grid."
+"I find it a bit inconvenient to go to a second page for the balance."
+Clutter and Text Overload (Mentioned 5 times)
+"There's too much text at the bottom half of the page."
+"The text size is too small and there's a lot of it."
+"Reducing unnecessary text would make the page clearer."
+"It feels a bit cluttered with all the text."
+
+Navigation Challenges (Mentioned 4 times)
+"Navigating to certain features like flexi points takes too many clicks."
+"The navigation could be more streamlined."
+"Getting to some features is not as straightforward as it could be."
+
+Potential solutions
+
+With points simplification as well as feedback on users not being able to find their points - bringing back the points badge to the top right hand navigation might be a solution.
+
+With point simplification it also makes sense to remove individual point balances on Perks and celebrations
+
+This also allows us to add in any vivup labelling to the tiles without mixing the purpose of the badge component
+
+Advocates
+Non - Advocates
+How easy was it to navigate the homepage?
+
+
+
+Redeeming a Perk
+
+83% of users successfully redeemed a perk
+
+The majority of users were able to redeem the perk through clicking through the Perks tile. Once on the perks page most users scrolled down to view the perks on the page rather than use the search functionality on the perks page.However the second most used path was a segment of users that found the perk through clicking on the search on the homepage.This highlights that the search on the homepage is more prominent.
+
+Advocates
+Non - Advocates
+
+Non - Advocates
+Advocates
+How would you refer to this page? 
+
+Terminology Confusion (Mentioned 3 times)
+"'My Area' is a bit confusing. Maybe 'My Wallet' or 'My Perks' would be clearer."
+"I'm not sure what 'My Area' means. It could be named more intuitively."
+
+Were you able to find everything you need on the homepage?
+
+
+
+Areas of improvement
+Terminology Confusion (2 mentions):
+Participants were unclear about the differences between Perk, Reward, and Benefit. "As a first-time user, I may be asking: What's the difference between a Perk, Reward and Benefit?" 
+Readability Issues (1 mention):
+Concerns were raised about the small white text on a blue background. "The white text on blue background is pretty small (e.g., 'Flexi Perks'), those with poor eyesight or smaller screens may struggle to read it" 
+Element Placement (1 mention):
+Suggestions to place perks and rewards more prominently at the top due to frequent use. "I feel that perks and rewards would be more useful at the top as I'd use those the most" 
+
+Possible solutions
+
+
+
+Stories for education on points, types of deals, benefits…
+Quick actions to break down cognitive load, also an opportunity to reduce number of clicks to complete key actions
+
+Were you able to find everything you need on the homepage?
+
+
+
+Positive feedback
+Easy Navigation (20 mentions)
+Large, Clear Tiles: "Large tiles" "the tabs are clear and easy to read and take you to where you need to be" "Signposted well" Simple Layout: "Easy to navigate, the pictures are helpful" "Simple layout, not too overcomplicated" 
+Visible Categories: "Each category is visible" "Perks at the top and the first option" 
+General Ease of Use: "Easy to view and tap" "very easy with the search bar in the middle of the page" "All in one place" 
+Visual Appeal (4 mentions)
+Clean and Neat Design: "Cleaner and neater for the user" "Easier to navigate and on the eye than the current home page" 
+Grid Style: "The grid style is neat" Pictures and Tiles: "The pictures are helpful" "The Perks tile was my first port of call for finding the Caffe Nero perk"
+Search Functionality (10 mentions)
+Ease of Use: "The search bar is right on the front screen, easily navigable and clear" 
+"The search bar made it easy" 
+"Didn't have to click around" 
+"Having the search bar clear made it easy to search for what I wanted" 
+Placement: "The search bar was easy to see and use" 
+"The placement of the search bar made it easier" 
+"Search bar in the middle of the page" 
+Frequency of Use: "The search bar is right on the front screen, easily navigable and clear" 
+"Every time I use Perkbox as it's the fastest way to find what I want" 
+
+
+URL: https://docs.google.com/presentation/d/1SLGtI3av0zSY-WSnDfGbMuICsv96q5ZrJRhMRAlUpsQ/edit#slide=id.g2ef2e242032_0_37

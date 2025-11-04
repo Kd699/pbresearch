@@ -1,0 +1,81 @@
+Perks User Research
+Conducted by Miriam Khenissi & Adarsh Raja 
+Jan 2024
+
+Our most newsworthy takeaways
+😒
+
+We were wrong about
+-Power users being aware of all of our features, even some of the top users are only redeeming the same few perks again and again
+🤩
+
+We were right about
+-Savings will have a positive impact on perks usage. 
+-Users with the mobile app tend to be more engaged
+
+😲
+
+Surprises
+
+-A lot of users are unaware of the mobile application, discount codes & links, gift cards and the ability to add them to your phone wallet
+
+
+Awareness and proper training regarding platform features like the mobile app and different types of Perks are essential to maximize the utilisation of Perkbox.
+
+6/9 interviewed users noted not being aware of the mobile app, this may indicate that others are also missing out on the convenience of mobile access. 
+There was also a power user that was unaware that we do gift cards for weekly shopping and there was a presumption that gift cards could only be used online.
+
+These highlight a broader awareness issue that suggests the platform could benefit from a robust introductory campaign. 
+Such a campaign could be modeled on firsthand user experiences, like a users positive feedback about the January Bingo feature – an example of how engaging and timely content can drive platform usage.
+Awareness & Training
+
+
+
+
+
+
+
+
+
+Initiative: Savings calculator for grocery to include tips (app, phone wallet, discount codes)
+Awareness & Training
+
+Usability Concerns
+Users have expressed that they face hurdles in navigating the platform, indicating a need for improved interface design and discoverability.
+
+Examples: The fact that a user called for a search bar, even though one existed, suggests that some features aren't as user-friendly or discoverable as they might be. This insight can lead to a reevaluation of the user interface, perhaps even including walk-throughs or hints that can guide new users like Reece to less obvious yet essential features.
+
+Some users are unaware of the different types of perks and don’t think they can utilise the platform if they don’t have Points
+
+
+Usability Concerns
+
+
+
+
+
+
+
+
+
+Initiative: Redesigning the search bar & adding a tour
+
+
+Appreciation for savings
+Users appreciate seeing the long-term value and savings facilitated by the platform.
+Carlane’s desire to see savings over time reflects a broader user interest in not just immediate discounts but also long-term value. 
+This echoes Dawn's behavior of actively calculating the amount saved, really punctuating the value users place on tangible savings. 
+Sayfa's engagement with the platform for deals when reminded suggests the potential impact of an accumulative savings feature or a dashboard – giving a direct visual of deals utilised and savings accumulated, much like a financial fitness tracker.
+
+Appreciation for savings
+
+
+
+
+
+URL: https://docs.google.com/presentation/d/1sV69_tCeF2pCfbefwJ1Tb_9Bz48nydi0wzZcTapCFBU/edit#slide=id.ge94975c0e7_0_21
+
+
+
+
+Initiative: Savings tracker & Savings calculator for grocery shopping
